@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5634b65691a9fe33",
+        "id": "93d289e708565761",
         "type": "tabs",
         "children": [
           {
-            "id": "79341bf7e637aaae",
+            "id": "baed9e4d5ac4b46d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "8dc0c4e840ad0ed1",
@@ -138,10 +138,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79341bf7e637aaae",
+  "active": "baed9e4d5ac4b46d",
   "lastOpenFiles": [
-    "Test.md",
+    "Algorithms.md",
+    "Binary Search Tree - Insertion.md",
+    "Binary Search Tree - Deletion.md",
+    "Binary Search Tree.md",
+    "Trees.md",
+    "Data Structures.md",
+    "Graph.md",
+    "Queue.md",
+    "Depth-First Search (DFS).md",
+    "Binary Search Tree - Search.md",
+    "Binary Tree.md",
+    "Breadth-First Search (BFS).md",
+    "Pasted image 20240318125051.png",
+    "Pasted image 20240318124648.png",
+    "Pasted image 20240318120041.png",
+    "Pasted image 20240318115200.png",
+    "Pasted image 20240318114801.png",
+    "Hash Table.md",
+    "Tree.md",
+    "Pasted image 20240318112638.png",
+    "Pasted image 20240318112007.png",
+    "Pasted image 20240318111151.png",
     "Untitled",
+    "Test.md",
     "Welcome.md"
   ]
 }
