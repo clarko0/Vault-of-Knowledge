@@ -4,3 +4,6 @@
 - [[Binary Tree]]
 - [[Binary Search Tree]]
 - [[Queue]]
+- [[Arrays]] 
+- [[Linked Lists]] 
+- [[Array List]] 
