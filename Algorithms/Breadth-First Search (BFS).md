@@ -1,7 +1,7 @@
 ### Overview
 **BFS** algorithm traverses the `tree` level by level and depth by depth.
 
-![[Pasted image 20240318114801.png]]
+![[Tree Levels.png]]
 
 So we traverse level by level. In this example, the result is 1–2–5–3–4–6–7.
 
@@ -28,7 +28,7 @@ def bfs(self):
 
 To implement a **BFS** algorithm, we use the [[Queue]] data structure to help.
 
-![[Pasted image 20240318115200.png]]
+![[Depth-First Search.png]]
 
 1. First add the `root` `node` into the `queue` with the `put` method.
 2. Iterate while the `queue` is not empty.

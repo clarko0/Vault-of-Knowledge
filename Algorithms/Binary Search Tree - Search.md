@@ -2,7 +2,7 @@ We start with the `root` `node` as our current `node`. Is the given value sm
 2. Is the given value greater than the current `node` value? If yes, then we will search for it on the right `subtree`.
 3. If rules #1 and #2 are both false, we can compare the current `node` value and the given value if they are equal. If the comparison returns `true`, then we can say, “Yeah! Our `tree` has the given value,” otherwise, we say, “No, it hasn’t.”
 
-![[Pasted image 20240318125051.png]]
+![[Binary Search Tree Search.png]]
 
 The code:
 ```python

@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de44dcd1d3d62670",
+        "id": "704c01ae58bfa9d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a997b9a6c4e281fc",
+            "id": "5b10185e215b5478",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Usability Heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f33adbbb45a80ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI-UX Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "065f2e9514d67091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Usability Heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "327c0cc0c7f6e682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visibility of System Status.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Usability Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Usability Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10 Usability Heuristics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,43 +138,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a997b9a6c4e281fc",
+  "active": "5b10185e215b5478",
   "lastOpenFiles": [
-    "Linked Lists.md",
-    "Arrays.md",
-    "Array List.md",
-    "Pasted image 20240318112638.png",
-    "Pasted image 20240318112007.png",
-    "Pasted image 20240318111151.png",
-    "10 Usability Heuristics.md",
-    "Algorithms.md",
-    "Visibility of System Status.md",
-    "UI-UX Design.md",
-    "Match Between System and the Real World.md",
+    "Data Structures/Images/Binary Search Tree.png",
+    "Data Structures/Images/Binary Tree.png",
+    "Data Structures/Images/Graph.png",
+    "Data Structures/Images/Tree.png",
+    "Data Structures/Images/Tree Levels.png",
+    "Data Structures/Graph.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Binary Tree.md",
+    "Data Structures/Binary Search Tree.md",
+    "Data Structures/Arrays.md",
+    "Data Structures/Array List.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Linked Lists.md",
+    "Algorithms/Images/Binary Search Tree Search.png",
+    "Algorithms/Binary Search Tree - Search.md",
+    "Algorithms/Binary Search Tree - Insertion.md",
+    "Algorithms/Binary Search Tree - Deletion.md",
+    "Algorithms/Images/Binary Search Tree Insert.png",
+    "Algorithms/Algorithms.md",
+    "Algorithms/Images/Depth-First Search.png",
+    "Algorithms/Breadth-First Search (BFS).md",
+    "Algorithms/Images",
+    "Data Structures/Images",
+    "Algorithms",
+    "Data Structures",
+    "UI-UX Design/10 Usability Heuristics/Aesthetic and Minimalist Design.md",
+    "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
+    "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
+    "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
+    "UI-UX Design/10 Usability Heuristics/Match Between System and the Real World.md",
+    "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
+    "UI-UX Design/10 Usability Heuristics/Help and Documentation.md",
+    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
+    "UI-UX Design/10 Usability Heuristics/Error Prevention.md",
+    "UI-UX Design/10 Usability Heuristics/Consistency and Standards.md",
+    "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+    "UI-UX Design/10 Usability Heuristics",
+    "UI-UX Design/UI-UX Design.md",
+    "UI-UX Design",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Project Costing.md",
-    "Work Notes.md",
-    "Binary Search Tree - Deletion.md",
-    "Binary Search Tree - Search.md",
-    "Binary Search Tree - Insertion.md",
-    "Binary Search Tree.md",
-    "Data Structures.md",
-    "Graph.md",
-    "Binary Tree.md",
-    "Trees.md",
-    "Hash Table.md",
-    "Breadth-First Search (BFS).md",
-    "Pasted image 20240318125051.png",
-    "Pasted image 20240318120041.png",
-    "Pasted image 20240318115200.png",
-    "Pasted image 20240318114801.png",
-    "Queue.md",
-    "Depth-First Search (DFS).md",
-    "Pasted image 20240318124648.png",
-    "Tree.md",
-    "Untitled",
-    "Test.md",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }

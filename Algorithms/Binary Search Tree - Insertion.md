@@ -3,7 +3,7 @@
 3. If the value of the new `node` is smaller than the current `node`, go to the left `subtree`. If the current `node` doesn’t have a `left child`, insert it there, or else backtrack to step #1.
 4. We did not handle special cases here. When the value of a new `node` is equal to the current value of the `node,` use rule number 3. Consider inserting equal values to the left side of the `subtree`.
 
-![[Pasted image 20240318124648.png]]
+![[Binary Search Tree Insert.png]]
 
 
 ```python

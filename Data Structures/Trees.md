@@ -14,7 +14,7 @@ The `height` of a `tree` is the length of the longest path to a `leaf`.
 
 The `depth` of a `node` is the length of the path to its `root`.
 
-![[Pasted image 20240318112007.png]]
+![[Tree.png]]
 ### Types of tree:
 - [[Binary Tree]]
 - [[Binary Search Tree]]
