@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "704c01ae58bfa9d2",
+        "id": "085864003b1fe278",
         "type": "tabs",
         "children": [
           {
-            "id": "5b10185e215b5478",
+            "id": "61392a7194a51176",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md"
+              }
             }
           }
         ]
@@ -138,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b10185e215b5478",
+  "active": "61392a7194a51176",
   "lastOpenFiles": [
+    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
+    "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+    "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
+    "UI-UX Design/10 Usability Heuristics/Consistency and Standards.md",
+    "UI-UX Design/10 Usability Heuristics/Error Prevention.md",
+    "UI-UX Design/10 Usability Heuristics/Help and Documentation.md",
+    "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
+    "UI-UX Design/10 Usability Heuristics/Aesthetic and Minimalist Design.md",
+    "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
+    "UI-UX Design/10 Usability Heuristics/Match Between System and the Real World.md",
+    "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
+    "UI-UX Design/UI-UX Design.md",
     "Data Structures/Images/Binary Search Tree.png",
     "Data Structures/Images/Binary Tree.png",
     "Data Structures/Images/Graph.png",
@@ -165,19 +185,7 @@
     "Data Structures/Images",
     "Algorithms",
     "Data Structures",
-    "UI-UX Design/10 Usability Heuristics/Aesthetic and Minimalist Design.md",
-    "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
-    "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
-    "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
-    "UI-UX Design/10 Usability Heuristics/Match Between System and the Real World.md",
-    "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
-    "UI-UX Design/10 Usability Heuristics/Help and Documentation.md",
-    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
-    "UI-UX Design/10 Usability Heuristics/Error Prevention.md",
-    "UI-UX Design/10 Usability Heuristics/Consistency and Standards.md",
-    "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
     "UI-UX Design/10 Usability Heuristics",
-    "UI-UX Design/UI-UX Design.md",
     "UI-UX Design",
     "Untitled.canvas",
     "Untitled 1.canvas"
