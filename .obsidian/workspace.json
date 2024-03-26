@@ -4,15 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "93d289e708565761",
+        "id": "de44dcd1d3d62670",
         "type": "tabs",
         "children": [
           {
-            "id": "baed9e4d5ac4b46d",
+            "id": "a997b9a6c4e281fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10 Usability Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f33adbbb45a80ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI-UX Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "065f2e9514d67091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Usability Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327c0cc0c7f6e682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visibility of System Status.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 Usability Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 Usability Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10 Usability Heuristics.md"
+              }
             }
           }
         ]
@@ -138,30 +182,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baed9e4d5ac4b46d",
+  "active": "a997b9a6c4e281fc",
   "lastOpenFiles": [
-    "Algorithms.md",
-    "Binary Search Tree - Insertion.md",
-    "Binary Search Tree - Deletion.md",
-    "Binary Search Tree.md",
-    "Trees.md",
-    "Data Structures.md",
-    "Graph.md",
-    "Queue.md",
-    "Depth-First Search (DFS).md",
-    "Binary Search Tree - Search.md",
-    "Binary Tree.md",
-    "Breadth-First Search (BFS).md",
-    "Pasted image 20240318125051.png",
-    "Pasted image 20240318124648.png",
-    "Pasted image 20240318120041.png",
-    "Pasted image 20240318115200.png",
-    "Pasted image 20240318114801.png",
-    "Hash Table.md",
-    "Tree.md",
     "Pasted image 20240318112638.png",
     "Pasted image 20240318112007.png",
     "Pasted image 20240318111151.png",
+    "10 Usability Heuristics.md",
+    "Algorithms.md",
+    "Visibility of System Status.md",
+    "UI-UX Design.md",
+    "Match Between System and the Real World.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Project Costing.md",
+    "Work Notes.md",
+    "Binary Search Tree - Deletion.md",
+    "Binary Search Tree - Search.md",
+    "Binary Search Tree - Insertion.md",
+    "Binary Search Tree.md",
+    "Data Structures.md",
+    "Graph.md",
+    "Binary Tree.md",
+    "Trees.md",
+    "Hash Table.md",
+    "Breadth-First Search (BFS).md",
+    "Pasted image 20240318125051.png",
+    "Pasted image 20240318120041.png",
+    "Pasted image 20240318115200.png",
+    "Pasted image 20240318114801.png",
+    "Queue.md",
+    "Depth-First Search (DFS).md",
+    "Pasted image 20240318124648.png",
+    "Tree.md",
     "Untitled",
     "Test.md",
     "Welcome.md"
