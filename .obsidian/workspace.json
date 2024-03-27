@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+                "file": "Data Structures/Trie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef6ee25fae6dbd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Heap - Deletion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d1f322892a166e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Heap - Heapify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0881b40864c54c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Heap - Insertion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+                "file": "Data Structures/Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+                "file": "Data Structures/Trie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md"
+                "file": "Data Structures/Trie.md"
               }
             }
           }
@@ -148,8 +184,27 @@
   },
   "active": "61392a7194a51176",
   "lastOpenFiles": [
-    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
+    "Data Structures/Array List.md",
+    "Data Structures/Arrays.md",
+    "Data Structures/Binary Search Tree.md",
+    "Data Structures/Binary Tree.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Graph.md",
+    "Data Structures/Hash Table.md",
+    "Data Structures/Heap.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Queue.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Trie.md",
+    "Algorithms/Heap - Deletion.md",
+    "Algorithms/Heap - Insertion.md",
+    "Algorithms/Heap - Heapify.md",
+    "Algorithms/Algorithms.md",
+    "Data Structures/Images/Heap.png",
+    "Hea.md",
+    "Data Structures/Images/Trie.png",
     "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
+    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
     "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
     "UI-UX Design/10 Usability Heuristics/Consistency and Standards.md",
     "UI-UX Design/10 Usability Heuristics/Error Prevention.md",
@@ -157,30 +212,14 @@
     "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
     "UI-UX Design/10 Usability Heuristics/Aesthetic and Minimalist Design.md",
     "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
-    "UI-UX Design/10 Usability Heuristics/Match Between System and the Real World.md",
-    "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
-    "UI-UX Design/UI-UX Design.md",
     "Data Structures/Images/Binary Search Tree.png",
     "Data Structures/Images/Binary Tree.png",
     "Data Structures/Images/Graph.png",
     "Data Structures/Images/Tree.png",
     "Data Structures/Images/Tree Levels.png",
-    "Data Structures/Graph.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Binary Tree.md",
-    "Data Structures/Binary Search Tree.md",
-    "Data Structures/Arrays.md",
-    "Data Structures/Array List.md",
-    "Data Structures/Trees.md",
-    "Data Structures/Linked Lists.md",
     "Algorithms/Images/Binary Search Tree Search.png",
-    "Algorithms/Binary Search Tree - Search.md",
-    "Algorithms/Binary Search Tree - Insertion.md",
-    "Algorithms/Binary Search Tree - Deletion.md",
     "Algorithms/Images/Binary Search Tree Insert.png",
-    "Algorithms/Algorithms.md",
     "Algorithms/Images/Depth-First Search.png",
-    "Algorithms/Breadth-First Search (BFS).md",
     "Algorithms/Images",
     "Data Structures/Images",
     "Algorithms",

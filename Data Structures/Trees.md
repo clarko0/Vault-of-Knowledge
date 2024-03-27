@@ -18,6 +18,7 @@ The `depth` of a `node` is the length of the path to its `root`.
 ### Types of tree:
 - [[Binary Tree]]
 - [[Binary Search Tree]]
+- [[Trie]]
 ### Common search algorithms for trees include:
 - [[Depth-First Search (DFS)]]
 - [[Breadth-First Search (BFS)]]
