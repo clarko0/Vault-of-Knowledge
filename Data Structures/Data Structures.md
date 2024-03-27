@@ -8,3 +8,4 @@
 - [[Linked Lists]] 
 - [[Array List]] 
 - [[Heap]]
+- [[Trie]]
