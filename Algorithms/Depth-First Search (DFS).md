@@ -1,7 +1,7 @@
 ### Overview
 Depth-First Search (DFS) explores a path all the way to a leaf before backtracking and exploring another path. Let’s take a look at an example with this type of traversal.
 
-![[Pasted image 20240318112638.png]]
+![[Binary Tree.png]]
 
 The result for this algorithm will be 1–2–3–4–5–6–7.
 

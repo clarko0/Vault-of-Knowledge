@@ -1,6 +1,6 @@
 ### Overview
 A graph is a non-linear kind of data structure made up of nodes or vertices and edges. The edges connect any two nodes in the graph, and the nodes are also known as vertices.
-![[Pasted image 20240318111151.png]]
+![[Graph.png]]
 
 In C++ the struct would look something like:
 ```cpp

@@ -1,0 +1,1 @@
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place.

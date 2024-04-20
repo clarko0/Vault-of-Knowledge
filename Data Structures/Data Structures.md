@@ -7,3 +7,5 @@
 - [[Arrays]] 
 - [[Linked Lists]] 
 - [[Array List]] 
+- [[Heap]]
+- [[Trie]]
