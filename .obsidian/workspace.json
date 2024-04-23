@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84bb4c0757c95207",
+        "id": "33d8256b40fd5ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "6ccd3203e6f61719",
+            "id": "4ae30e76b765029e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ccd3203e6f61719",
+  "active": "4ae30e76b765029e",
   "lastOpenFiles": [
+    "Algorithms/Breadth-First Search (BFS).md",
+    "Algorithms/Heap - Insertion.md",
+    "Algorithms/Heap - Heapify.md",
+    "Algorithms/Depth-First Search (DFS).md",
+    "Algorithms/Binary Search Tree - Deletion.md",
     "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
     "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
     "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
@@ -171,15 +176,10 @@
     "Data Structures/Hash Table.md",
     "Data Structures/Data Structures.md",
     "Data Structures/Binary Search Tree.md",
-    "Data Structures/Binary Tree.md",
-    "Data Structures/Arrays.md",
-    "Data Structures/Array List.md",
     "Data Structures",
     "Algorithms/Images/Search for prefix an in Trie.png",
     "Algorithms/Images/Depth-First Search.png",
     "Algorithms/Images/Binary Search Tree Search.png",
-    "Algorithms/Trie - Search.md",
-    "Algorithms/Trie - Insertion.md",
     "Algorithms/Images",
     "Algorithms",
     "Untitled"
