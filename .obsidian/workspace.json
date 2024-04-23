@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "36370eb9afb81475",
+        "id": "84bb4c0757c95207",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0b717ae4d48ab5",
+            "id": "6ccd3203e6f61719",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0b717ae4d48ab5",
+  "active": "6ccd3203e6f61719",
   "lastOpenFiles": [
     "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
     "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",

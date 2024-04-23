@@ -27,7 +27,7 @@ This operation also takes **O(logN)** time.
 >          /    \
 >       4      8  
 >    /  \\     /  
->1    2  5
+>1    2    5
 >
 
 ```python

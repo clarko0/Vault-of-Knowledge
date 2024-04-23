@@ -32,3 +32,5 @@ struct Graph {
     }
 };
 ```
+
+A common algorithm to find the shortest path, is [[Dijkstra's Algorithm]]
