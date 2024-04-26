@@ -1,0 +1,2 @@
+A monochromatic colour scheme is based around a single base colour. Shades of the base colour are used to create variation. With a monochromatic scheme, designers are able to achieve a simple, yet cohesive and elegant look to the UI.
+![[Monochromatic Colour Scheme.png]]

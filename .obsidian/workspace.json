@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33d8256b40fd5ff1",
+        "id": "993431979c0d674e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae30e76b765029e",
+            "id": "d63605b5d89affb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UI-UX Design/UI-UX Design.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UI-UX Design/UI-UX Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UI-UX Design/UI-UX Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UI-UX Design/UI-UX Design.md"
+              }
             }
           }
         ]
@@ -138,8 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ae30e76b765029e",
+  "active": "d63605b5d89affb0",
   "lastOpenFiles": [
+    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
+    "UI-UX Design/UI-UX Design.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Similarity.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Focal Point.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Gestalt Principles of Perception.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Focal Point2.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Focal Point.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Region.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Proximity.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Similarity2.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Similarity.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception",
+    "UI-UX Design/Human-Computer Interaction",
+    "UI-UX Design/Untitled.md",
+    "UI-UX Design/Colour/Complementary Colour Scheme.md",
+    "UI-UX Design/Colour/Colour.md",
+    "UI-UX Design/Colour/Monochromatic Colour Scheme.md",
+    "UI-UX Design/Colour/Triadic Colour Scheme.md",
+    "UI-UX Design/Colour/Images/Monochromatic Colour Scheme.png",
+    "UI-UX Design/Colour/Images/Triadic Colour Scheme.png",
+    "UI-UX Design/Colour/Analogous Colour Scheme.md",
+    "UI-UX Design/Colour/Images/Complementary Colour Scheme.png",
+    "UI-UX Design/Colour/Images/Analogous Colour Scheme.png",
+    "UI-UX Design/Colour/Images",
+    "UI-UX Design/Colour",
     "Algorithms/Breadth-First Search (BFS).md",
     "Algorithms/Heap - Insertion.md",
     "Algorithms/Heap - Heapify.md",
@@ -152,36 +188,10 @@
     "UI-UX Design/10 Usability Heuristics/Help and Documentation.md",
     "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
     "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
-    "UI-UX Design/10 Usability Heuristics/Error Prevention.md",
-    "UI-UX Design/10 Usability Heuristics/Consistency and Standards.md",
-    "UI-UX Design/10 Usability Heuristics/Aesthetic and Minimalist Design.md",
-    "UI-UX Design/10 Usability Heuristics/10 Usability Heuristics.md",
-    "UI-UX Design/UI-UX Design.md",
     "UI-UX Design/10 Usability Heuristics",
     "UI-UX Design",
-    "Data Structures/Images/Trie.png",
-    "Data Structures/Images/Tree.png",
-    "Data Structures/Images/Heap.png",
-    "Data Structures/Images/Tree Levels.png",
-    "Data Structures/Images/Graph.png",
-    "Data Structures/Images/Binary Tree.png",
-    "Data Structures/Images/Binary Search Tree.png",
-    "Data Structures/Trie.md",
-    "Data Structures/Trees.md",
-    "Data Structures/Queue.md",
-    "Data Structures/Linked Lists.md",
     "Data Structures/Images",
-    "Data Structures/Heap.md",
-    "Data Structures/Graph.md",
-    "Data Structures/Hash Table.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Binary Search Tree.md",
     "Data Structures",
-    "Algorithms/Images/Search for prefix an in Trie.png",
-    "Algorithms/Images/Depth-First Search.png",
-    "Algorithms/Images/Binary Search Tree Search.png",
-    "Algorithms/Images",
-    "Algorithms",
-    "Untitled"
+    "Algorithms/Images"
   ]
 }

@@ -1,0 +1,4 @@
+-[[Analogous Colour Scheme]]
+-[[Complementary Colour Scheme]]
+-[[Triadic Colour Scheme]]
+-[[Monochromatic Colour Scheme]]
