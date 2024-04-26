@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "993431979c0d674e",
+        "id": "eed2116843fdf819",
         "type": "tabs",
         "children": [
           {
-            "id": "d63605b5d89affb0",
+            "id": "6e2a35f5b2c7145b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI-UX Design/UI-UX Design.md",
+                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI-UX Design/UI-UX Design.md",
+                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI-UX Design/UI-UX Design.md",
+                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI-UX Design/UI-UX Design.md"
+                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md"
               }
             }
           }
@@ -138,56 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "d63605b5d89affb0",
+  "active": "6e2a35f5b2c7145b",
   "lastOpenFiles": [
-    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
-    "UI-UX Design/UI-UX Design.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Symmetry and Order.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Similarity.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Focal Point.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Gestalt Principles of Perception.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Focal Point.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Figure-Ground.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Continuation.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Fate.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Closure.md",
+    "UI-UX Design/Colour/Triadic Colour Scheme.md",
+    "UI-UX Design/Colour/Monochromatic Colour Scheme.md",
+    "UI-UX Design/Colour/Complementary Colour Scheme.md",
+    "UI-UX Design/Colour/Analogous Colour Scheme.md",
+    "UI-UX Design/Colour/Colour.md",
+    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
+    "Data Structures/Hash Table.md",
+    "Data Structures/Heap.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Queue.md",
+    "Data Structures/Array List.md",
+    "UI-UX Design/UI-UX Design.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Fate.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Symmetry and order.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Figure-Ground.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Closure.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Continuation.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Focal Point2.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Focal Point.png",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Region.png",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Proximity.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Similarity2.png",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Similarity.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception",
     "UI-UX Design/Human-Computer Interaction",
     "UI-UX Design/Untitled.md",
-    "UI-UX Design/Colour/Complementary Colour Scheme.md",
-    "UI-UX Design/Colour/Colour.md",
-    "UI-UX Design/Colour/Monochromatic Colour Scheme.md",
-    "UI-UX Design/Colour/Triadic Colour Scheme.md",
-    "UI-UX Design/Colour/Images/Monochromatic Colour Scheme.png",
-    "UI-UX Design/Colour/Images/Triadic Colour Scheme.png",
-    "UI-UX Design/Colour/Analogous Colour Scheme.md",
-    "UI-UX Design/Colour/Images/Complementary Colour Scheme.png",
-    "UI-UX Design/Colour/Images/Analogous Colour Scheme.png",
     "UI-UX Design/Colour/Images",
     "UI-UX Design/Colour",
     "Algorithms/Breadth-First Search (BFS).md",
     "Algorithms/Heap - Insertion.md",
     "Algorithms/Heap - Heapify.md",
-    "Algorithms/Depth-First Search (DFS).md",
-    "Algorithms/Binary Search Tree - Deletion.md",
-    "UI-UX Design/10 Usability Heuristics/Visibility of System Status.md",
-    "UI-UX Design/10 Usability Heuristics/User Control and Freedom.md",
-    "UI-UX Design/10 Usability Heuristics/Recognition Rather than Recall.md",
-    "UI-UX Design/10 Usability Heuristics/Match Between System and the Real World.md",
-    "UI-UX Design/10 Usability Heuristics/Help and Documentation.md",
-    "UI-UX Design/10 Usability Heuristics/Help Users Recognize, Diagnose, and Recover from Errors.md",
-    "UI-UX Design/10 Usability Heuristics/Flexibility and Efficiency of Use.md",
     "UI-UX Design/10 Usability Heuristics",
     "UI-UX Design",
     "Data Structures/Images",
