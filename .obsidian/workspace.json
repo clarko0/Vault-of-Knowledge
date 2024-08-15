@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eed2116843fdf819",
+        "id": "2b2e32a951a14e51",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2a35f5b2c7145b",
+            "id": "99089650a9a56e34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e2a35f5b2c7145b",
+  "active": "99089650a9a56e34",
   "lastOpenFiles": [
+    "Architecture/Microservices/Microservices.md",
+    "README.md",
+    "Architecture/Architecture.md",
+    "Architecture/Microservices",
+    "Architecture",
+    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Symmetry and Order.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Similarity.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
@@ -163,7 +161,6 @@
     "UI-UX Design/Colour/Complementary Colour Scheme.md",
     "UI-UX Design/Colour/Analogous Colour Scheme.md",
     "UI-UX Design/Colour/Colour.md",
-    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
     "Data Structures/Hash Table.md",
     "Data Structures/Heap.md",
     "Data Structures/Linked Lists.md",
@@ -186,13 +183,8 @@
     "UI-UX Design/Untitled.md",
     "UI-UX Design/Colour/Images",
     "UI-UX Design/Colour",
-    "Algorithms/Breadth-First Search (BFS).md",
-    "Algorithms/Heap - Insertion.md",
-    "Algorithms/Heap - Heapify.md",
     "UI-UX Design/10 Usability Heuristics",
     "UI-UX Design",
-    "Data Structures/Images",
-    "Data Structures",
-    "Algorithms/Images"
+    "Data Structures/Images"
   ]
 }
