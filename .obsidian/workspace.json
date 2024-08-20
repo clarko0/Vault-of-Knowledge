@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2e32a951a14e51",
+        "id": "b44f4718b349b77b",
         "type": "tabs",
         "children": [
           {
-            "id": "99089650a9a56e34",
+            "id": "696d46480d5f54df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b0df1fd366d49e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md"
+              }
             }
           }
         ]
@@ -138,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99089650a9a56e34",
+  "active": "d7be8c3770616e7e",
   "lastOpenFiles": [
+    "Level 4 Apprenticeship/Evidence",
+    "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
+    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Evidence Plan",
+    "Level 4 Apprenticeship",
     "Architecture/Microservices/Microservices.md",
     "README.md",
     "Architecture/Architecture.md",
@@ -165,8 +191,6 @@
     "Data Structures/Heap.md",
     "Data Structures/Linked Lists.md",
     "Data Structures/Queue.md",
-    "Data Structures/Array List.md",
-    "UI-UX Design/UI-UX Design.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Fate.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Symmetry and order.png",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Figure-Ground.png",
@@ -180,11 +204,7 @@
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception",
     "UI-UX Design/Human-Computer Interaction",
-    "UI-UX Design/Untitled.md",
     "UI-UX Design/Colour/Images",
-    "UI-UX Design/Colour",
-    "UI-UX Design/10 Usability Heuristics",
-    "UI-UX Design",
-    "Data Structures/Images"
+    "UI-UX Design/Colour"
   ]
 }
