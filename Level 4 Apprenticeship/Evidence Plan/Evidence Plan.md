@@ -1,17 +1,18 @@
 # K1
 - Describes all stages of the software development lifecycle.
+
 To describe all stages of the Software Development Lifecycle (SDLC), start with the **Planning** phase, where project goals, scope, and requirements are defined. Next is the **Analysis** phase, which involves gathering detailed requirements and defining system specifications. The **Design** phase follows, where the architecture and user interfaces are planned. After design, the **Implementation** or **Development** phase involves writing and compiling the code according to the design specifications.
 
 Once development is complete, the **Testing** phase ensures that the software functions correctly and meets all requirements, often including unit, integration, and user acceptance tests. The **Deployment** phase follows, where the software is released to users and made operational in the production environment. Finally, the **Maintenance** phase involves ongoing support, including fixing bugs, making updates, and improving performance, ensuring the software continues to meet user needs and adapt to changing conditions.
 
 Estimated time to complete: **3 hours**
-# K3
+# [[K3]]
 - Describes the roles and responsibilities of the project lifecycle within their organisation, and their role.
 
-identify and describe the key roles in the project lifecycle at Labman, such as project manager, developers, QA testers, and stakeholders. Explain their responsibilities at different stages of the project, from planning to deployment. Then, focus on your role in the lifecycle—such as contributing to coding, participating in design discussions, or assisting with testing—and how your responsibilities fit into the broader project workflow. Highlight how your work supports the project's progress and aligns with the organization's goals.
+Identify and describe the key roles in the project lifecycle at Labman, such as project manager, developers, QA testers, and stakeholders. Explain their responsibilities at different stages of the project, from planning to deployment. Then, focus on your role in the lifecycle—such as contributing to coding, participating in design discussions, or assisting with testing—and how your responsibilities fit into the broader project workflow. Highlight how your work supports the project's progress and aligns with the organization's goals.
 
 Estimated time to complete: **2 hours**
-# K4/S15
+# [[K4-S15]]
 - Describes methods of communicating with all stakeholders that is determined by the audience and/or their level of technical knowledge. **(Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods.)**
 
 Describe how you tailor communication methods to different stakeholders based on their technical knowledge. For example, when communicating with technical team members, you might use detailed technical jargon, diagrams, and code snippets, while for non-technical stakeholders, you simplify explanations, use analogies, and focus on high-level concepts and outcomes. Compare the benefits of each approach—technical communication ensures precise, in-depth understanding, while non-technical communication ensures clarity and keeps all stakeholders aligned. Highlight specific instances where you've adapted your communication style to effectively convey information to different audiences.
@@ -54,7 +55,7 @@ Estimated time to complete: **3 hours**
 To explain your approach to developing user interfaces, describe your process from understanding user needs to designing and implementing the UI. Start with gathering requirements through discussions with stakeholders or user feedback, ensuring you understand the target audience and their needs. Next, outline your use of design principles such as simplicity, consistency, and accessibility, and how you incorporate them into wireframes or mock-ups. Explain your choice of tools and technologies (e.g., HTML, CSS, JavaScript, and MVC Razor views), and how you prioritize responsive design and user experience. Finally, discuss how you test the UI for usability and cross-browser compatibility before deployment.
 
 Estimated time to complete: **3 hours**
-# S3
+# [[S3]]
 - Explains how they have linked code to data sets.
 
 To explain how you've linked code to datasets, describe a specific feature in the Intranet project where your code interacts with a database. Outline how you define models that represent database tables, using an ORM like Devart's Entity Developer to map these models to MySQL. Explain how you use LINQ or SQL queries within your code to retrieve, manipulate, and display data. Highlight any steps you took to ensure data integrity and efficiency, such as writing optimized queries or handling exceptions. Conclude by discussing how this data integration supports the functionality of the feature you developed.
