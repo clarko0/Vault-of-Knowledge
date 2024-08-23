@@ -37,7 +37,7 @@ Estimated time to complete : **4 hours**
 Identify key policies relevant to your work, such as coding standards, security protocols, and documentation requirements. Explain how these policies guide your day-to-day tasks, like adhering to coding guidelines during development or following security protocols when handling sensitive data. Additionally, describe how you follow approaches to version control (e.g., branching strategies in Git), and source control (e.g., committing changes regularly and reviewing pull requests), ensuring consistency and quality in the development process.
 
 Estimated time to complete: **3 hours**
-# K10
+# [[K10]]
 - Applies the principles and uses of relational and non-relational databases to software development tasks.
 
 Identify a specific feature in the Intranet project that involves data storage or retrieval. For relational databases, explain how you design normalized tables in MySQL, use SQL queries, and leverage relationships like foreign keys for data integrity. If applicable, for non-relational databases, describe scenarios where you might use a NoSQL database (like MongoDB) for handling unstructured data, emphasizing flexibility and scalability. Implement and document a feature using these principles, comparing how each database type supports different aspects of the application's requirements.
