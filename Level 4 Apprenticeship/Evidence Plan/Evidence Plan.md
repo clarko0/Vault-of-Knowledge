@@ -1,4 +1,4 @@
-# K1
+# [[K1]]
 - Describes all stages of the software development lifecycle.
 
 To describe all stages of the Software Development Lifecycle (SDLC), start with the **Planning** phase, where project goals, scope, and requirements are defined. Next is the **Analysis** phase, which involves gathering detailed requirements and defining system specifications. The **Design** phase follows, where the architecture and user interfaces are planned. After design, the **Implementation** or **Development** phase involves writing and compiling the code according to the design specifications.
@@ -18,7 +18,7 @@ Estimated time to complete: **2 hours**
 Describe how you tailor communication methods to different stakeholders based on their technical knowledge. For example, when communicating with technical team members, you might use detailed technical jargon, diagrams, and code snippets, while for non-technical stakeholders, you simplify explanations, use analogies, and focus on high-level concepts and outcomes. Compare the benefits of each approach—technical communication ensures precise, in-depth understanding, while non-technical communication ensures clarity and keeps all stakeholders aligned. Highlight specific instances where you've adapted your communication style to effectively convey information to different audiences.
 
 Estimated time to complete: **3 hours**
-# K5
+# [[K5]]
 - Describes the similarities and differences between different software development methodologies, such as agile and waterfall.
 
 Describe the similarities and differences between Agile and Waterfall methodologies. Both are frameworks for managing software development, but they differ in approach. **Waterfall** is linear and sequential, with distinct phases like planning, design, implementation, and testing, where each phase must be completed before the next begins. It's best for projects with well-defined requirements. **Agile**, on the other hand, is iterative and flexible, breaking projects into small, manageable increments (sprints) that allow for continuous feedback and adaptation. Agile promotes collaboration and is ideal for projects where requirements may evolve. Both methodologies aim to deliver a high-quality product but differ in structure, flexibility, and adaptability to change.
