@@ -24,7 +24,7 @@ Estimated time to complete: **3 hours**
 Describe the similarities and differences between Agile and Waterfall methodologies. Both are frameworks for managing software development, but they differ in approach. **Waterfall** is linear and sequential, with distinct phases like planning, design, implementation, and testing, where each phase must be completed before the next begins. It's best for projects with well-defined requirements. **Agile**, on the other hand, is iterative and flexible, breaking projects into small, manageable increments (sprints) that allow for continuous feedback and adaptation. Agile promotes collaboration and is ideal for projects where requirements may evolve. Both methodologies aim to deliver a high-quality product but differ in structure, flexibility, and adaptability to change.
 
 Estimated time to complete: **3 hours**
-# K7
+# [[K7]]
 - Suggests and applies different software design approaches and patterns, to identify reusable solutions to commonly occurring problems (include bespoke or off-the-shelf) **(Evaluates and recommends approaches to using reusable solutions to common problems.)**
 
 Identify a recurring problem in the Intranet project, such as data validation. Research and evaluate relevant design patterns (like the Repository or Strategy Pattern), and choose one that best addresses the issue. Implement the chosen pattern in a specific module, ensuring it integrates well with the existing architecture. Test the solution to validate its effectiveness and document the process, reflecting on how the pattern improved the project's maintainability and reusability.

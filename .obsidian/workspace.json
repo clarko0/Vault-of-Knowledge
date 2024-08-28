@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "033296a8c2a71970",
+        "id": "51aeb3ec107d4c63",
         "type": "tabs",
         "children": [
           {
-            "id": "648b4598dc64b59f",
+            "id": "94492324086c8878",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,31 +138,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "648b4598dc64b59f",
+  "active": "94492324086c8878",
   "lastOpenFiles": [
-    "Level 4 Apprenticeship/Evidence/K5/K5.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Evidence/K7/K7.md",
+    "Level 4 Apprenticeship/Evidence/K5/K5.md",
+    "Pasted image 20240828113120.png",
+    "Level 4 Apprenticeship/Evidence/K7",
+    "Level 4 Apprenticeship/Evidence/S3/S3.md",
+    "Level 4 Apprenticeship/Evidence/S3/Pasted image 20240822165313.png",
     "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
     "Level 4 Apprenticeship/Evidence/K5",
     "Level 4 Apprenticeship/Evidence/K1/K1.md",
     "Level 4 Apprenticeship/Evidence/K3/K3.md",
     "Level 4 Apprenticeship/Evidence/K1",
-    "Untitled.md",
     "Pasted image 20240823113646.png",
     "Pasted image 20240823103237.png",
     "Pasted image 20240823101406.png",
-    "Level 4 Apprenticeship/Evidence/S3/S3.md",
     "Level 4 Apprenticeship/Evidence/K10/K10.md",
     "Level 4 Apprenticeship/Evidence/K4-S15/K4-S15.md",
     "Pasted image 20240823113438.png",
-    "Level 4 Apprenticeship/Evidence/S3/Pasted image 20240822165313.png",
     "README.md",
     "Pasted image 20240823103306.png",
     "Pasted image 20240823103112.png",
     "Level 4 Apprenticeship/Evidence/K10",
     "Pasted image 20240823101251.png",
     "Level 4 Apprenticeship/Evidence/S3",
-    "Untitled.canvas",
     "Level 4 Apprenticeship/Evidence Plan/K3/Untitled.canvas",
     "Level 4 Apprenticeship/Evidence Plan/K3/test.pdf",
     "Level 4 Apprenticeship/Evidence Plan/K3/test.txt",
@@ -178,7 +175,6 @@
     "Al.md",
     "Level 4 Apprenticeship/Evidence Plan/K3/K3.docx",
     "Level 4 Apprenticeship/Evidence Plan/K3/New Microsoft Word Document.docx",
-    "Level 4 Apprenticeship/Evidence/K4-S15",
     "Level 4 Apprenticeship/Evidence Plan/Untitled.md",
     "Level 4 Apprenticeship/Evidence Plan/K1/Untitled.md",
     "Architecture/Microservices/Microservices.md",
@@ -192,9 +188,6 @@
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Figure-Ground.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Continuation.md",
     "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Fate.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Closure.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Fate.png",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Symmetry and order.png"
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Fate.png"
   ]
 }
