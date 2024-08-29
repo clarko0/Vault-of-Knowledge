@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "51aeb3ec107d4c63",
+        "id": "435f1228d5389dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "94492324086c8878",
+            "id": "e8f8d7e118f43023",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence/K8-S14/K8-S14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b616da43f6d73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Level 4 Apprenticeship/Evidence/K8-S14/K8-S14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Level 4 Apprenticeship/Evidence/K8-S14/K8-S14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence/K8-S14/K8-S14.md"
+              }
             }
           }
         ]
@@ -138,56 +158,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94492324086c8878",
+  "active": "e8f8d7e118f43023",
   "lastOpenFiles": [
+    "Pasted image 20240829110306.png",
+    "Pasted image 20240829105026.png",
+    "Pasted image 20240829104842.png",
+    "Pasted image 20240829104207.png",
+    "Pasted image 20240829103738.png",
+    "Pasted image 20240829103144.png",
+    "Pasted image 20240829102943.png",
+    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Evidence/K8-S14/K8-S14.md",
+    "K8/S14.md",
+    "K8",
+    "solution1.png",
+    "solution2-en.png",
+    "solution3-en.png",
     "Untitled.md",
+    "Level 4 Apprenticeship/Evidence/K8-S14",
+    "Level 4 Apprenticeship/Evidence/Untitled.md",
+    "Level 4 Apprenticeship/Evidence/S3/S3.md",
+    "Software Design Patterns/Factory Method.md",
+    "Software Design Patterns/Software Design Patterns.md",
+    "Software Design Patterns/Dependency Injection.md",
+    "structure.png",
+    "Software Design Patterns/Repository.md",
+    "Data Structures/Data Structures.md",
+    "Level 4 Apprenticeship/Evidence/K7/K7.md",
+    "Software Design Patterns",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
-    "Level 4 Apprenticeship/Evidence/K7/K7.md",
     "Level 4 Apprenticeship/Evidence/K5/K5.md",
-    "Pasted image 20240828113120.png",
     "Level 4 Apprenticeship/Evidence/K7",
-    "Level 4 Apprenticeship/Evidence/S3/S3.md",
-    "Level 4 Apprenticeship/Evidence/S3/Pasted image 20240822165313.png",
     "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
     "Level 4 Apprenticeship/Evidence/K5",
     "Level 4 Apprenticeship/Evidence/K1/K1.md",
     "Level 4 Apprenticeship/Evidence/K3/K3.md",
     "Level 4 Apprenticeship/Evidence/K1",
-    "Pasted image 20240823113646.png",
-    "Pasted image 20240823103237.png",
-    "Pasted image 20240823101406.png",
     "Level 4 Apprenticeship/Evidence/K10/K10.md",
     "Level 4 Apprenticeship/Evidence/K4-S15/K4-S15.md",
-    "Pasted image 20240823113438.png",
     "README.md",
-    "Pasted image 20240823103306.png",
-    "Pasted image 20240823103112.png",
     "Level 4 Apprenticeship/Evidence/K10",
-    "Pasted image 20240823101251.png",
     "Level 4 Apprenticeship/Evidence/S3",
     "Level 4 Apprenticeship/Evidence Plan/K3/Untitled.canvas",
     "Level 4 Apprenticeship/Evidence Plan/K3/test.pdf",
     "Level 4 Apprenticeship/Evidence Plan/K3/test.txt",
-    "Level 4 Apprenticeship/Evidence Plan/K3/New Text Document.txt",
     "Al.md",
-    "Level 4 Apprenticeship/Evidence Plan/K3/K3.docx",
-    "Level 4 Apprenticeship/Evidence Plan/K3/New Microsoft Word Document.docx",
     "Level 4 Apprenticeship/Evidence Plan/Untitled.md",
     "Level 4 Apprenticeship/Evidence Plan/K1/Untitled.md",
     "Architecture/Microservices/Microservices.md",
     "Architecture/Architecture.md",
-    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Symmetry and Order.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Similarity.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Gestalt Principles of Perception.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Focal Point.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Figure-Ground.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Continuation.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
-    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images/Common Fate.png"
+    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md"
   ]
 }

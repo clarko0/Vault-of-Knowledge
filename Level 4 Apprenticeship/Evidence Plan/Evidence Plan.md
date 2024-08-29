@@ -31,7 +31,7 @@ Identify a recurring problem in the Intranet project, such as data validation. R
 
 Estimated time to complete : **4 hours**
 
-# K8/S14
+# [[K8-S14]]
 - Explains the relevance of organisational policies and procedures relating to the tasks being undertaken, and when to follow them including how they have followed company, team or client approaches to continuous integration, version, and source control.
 
 Identify key policies relevant to your work, such as coding standards, security protocols, and documentation requirements. Explain how these policies guide your day-to-day tasks, like adhering to coding guidelines during development or following security protocols when handling sensitive data. Additionally, describe how you follow approaches to version control (e.g., branching strategies in Git), and source control (e.g., committing changes regularly and reviewing pull requests), ensuring consistency and quality in the development process.
