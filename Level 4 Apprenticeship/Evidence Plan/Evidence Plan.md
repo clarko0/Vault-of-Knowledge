@@ -12,7 +12,7 @@ Estimated time to complete: **3 hours**
 Identify and describe the key roles in the project lifecycle at Labman, such as project manager, developers, QA testers, and stakeholders. Explain their responsibilities at different stages of the project, from planning to deployment. Then, focus on your role in the lifecycle—such as contributing to coding, participating in design discussions, or assisting with testing—and how your responsibilities fit into the broader project workflow. Highlight how your work supports the project's progress and aligns with the organization's goals.
 
 Estimated time to complete: **2 hours**
-# [[K4-S15]]
+# [[K4-S15-B7]]
 - Describes methods of communicating with all stakeholders that is determined by the audience and/or their level of technical knowledge. **(Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods.)**
 
 Describe how you tailor communication methods to different stakeholders based on their technical knowledge. For example, when communicating with technical team members, you might use detailed technical jargon, diagrams, and code snippets, while for non-technical stakeholders, you simplify explanations, use analogies, and focus on high-level concepts and outcomes. Compare the benefits of each approach—technical communication ensures precise, in-depth understanding, while non-technical communication ensures clarity and keeps all stakeholders aligned. Highlight specific instances where you've adapted your communication style to effectively convey information to different audiences.
@@ -43,13 +43,13 @@ Estimated time to complete: **3 hours**
 Identify a specific feature in the Intranet project that involves data storage or retrieval. For relational databases, explain how you design normalized tables in MySQL, use SQL queries, and leverage relationships like foreign keys for data integrity. If applicable, for non-relational databases, describe scenarios where you might use a NoSQL database (like MongoDB) for handling unstructured data, emphasizing flexibility and scalability. Implement and document a feature using these principles, comparing how each database type supports different aspects of the application's requirements.
 
 Estimated time to complete: **4 hours**
-# K12
+# [[K12]]
 - Describes basic software testing frameworks and methodologies. **(Evaluates the use of various software testing frameworks and methodologies and justifies their choice.)**
 
 To demonstrate your understanding of software testing frameworks and methodologies, start by describing common approaches like unit testing, integration testing, and test-driven development (TDD). Discuss frameworks like NUnit or xUnit for .NET, explaining their roles in automating tests and ensuring code quality. Evaluate the use of these frameworks within the Intranet project, considering factors like ease of use, compatibility with the tech stack, and the ability to catch bugs early. Justify your choice by highlighting how the selected framework and methodology enhance the reliability and maintainability of the codebase, supporting continuous integration and delivery practices.
 
 Estimated time to complete: **3 hours**
-# S2
+# [[S2]]
 - Explains their own approach to development of user interfaces.
 
 To explain your approach to developing user interfaces, describe your process from understanding user needs to designing and implementing the UI. Start with gathering requirements through discussions with stakeholders or user feedback, ensuring you understand the target audience and their needs. Next, outline your use of design principles such as simplicity, consistency, and accessibility, and how you incorporate them into wireframes or mock-ups. Explain your choice of tools and technologies (e.g., HTML, CSS, JavaScript, and MVC Razor views), and how you prioritize responsive design and user experience. Finally, discuss how you test the UI for usability and cross-browser compatibility before deployment.
@@ -67,7 +67,7 @@ Estimated time to complete: **3 hours**
 To illustrate how you conduct various test types, choose a feature from the Intranet project and describe your testing process. For **Integration Testing**, explain how you tested interactions between different modules or services, ensuring they work together. In **System Testing**, describe validating the complete system against requirements. For **User Acceptance Testing (UAT)**, detail how you involved end-users to confirm the feature meets their needs. In **Non-Functional Testing**, cover aspects like usability and reliability. **Performance Testing** involves checking the system's responsiveness under load, while **Security Testing** focuses on identifying vulnerabilities. Mention the testing frameworks and methodologies used, such as NUnit for integration tests or JMeter for performance tests, and how these ensured comprehensive test coverage and adherence to best practices.
 
 Estimated time to complete: **4 hours**
-# S8
+# [[S8]]
 - Creates simple software designs to communicate understanding of the programme to stakeholders and users of the programme.
 
 To demonstrate your ability to create simple software designs, start by selecting a feature from the Intranet project. Develop basic diagrams, like flowcharts or UML diagrams, to visualize the architecture, data flow, and interactions between components. Use these designs to explain how the feature works to stakeholders and users, ensuring the diagrams are clear and accessible to non-technical audiences. Highlight key elements, such as input/output processes, user interfaces, and data handling, and show how the design aligns with project requirements. The goal is to effectively communicate the software's structure and functionality in a way that all stakeholders can understand.
@@ -113,10 +113,6 @@ Estimated time to complete: **3 hours**
 - Illustrates their approach to meeting unexpected minor changes at work and outlines their approach to delivering within their remit using their initiative.
 
 To demonstrate this KSB, describe a situation where you encountered an unexpected minor change, such as a last-minute requirement adjustment in the Intranet project. Explain how you quickly assessed the impact of the change, adjusted your workflow, and reprioritized tasks to accommodate it without disrupting the overall project timeline. Highlight how you used your initiative to find a solution, such as proposing a simple workaround or optimizing an existing feature to meet the new requirements. This shows your ability to adapt, take responsibility, and deliver quality work even when faced with unforeseen challenges.
-# B7
-- Explains how they have communicated effectively in a variety of situations to both a technical and non-technical audience.
-
-Describe specific instances where you've communicated with both technical and non-technical audiences. For example, when discussing a feature of the Intranet project with developers, you might have used technical language, detailed diagrams, or code snippets to ensure precision. In contrast, when presenting the same feature to non-technical stakeholders or management, you would have simplified the explanation, focusing on the benefits, user impact, and overall project goals, avoiding jargon. Highlight how adapting your communication style to the audience ensured clarity, understanding, and alignment across different groups, leading to successful collaboration and decision-making.
 # B8
 - Illustrates how they have responded to the business context with curiosity to explore new opportunities and techniques and tenacity to improve solution performance.
 
