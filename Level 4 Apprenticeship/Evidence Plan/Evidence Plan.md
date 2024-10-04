@@ -12,7 +12,7 @@ Estimated time to complete: **3 hours**
 Identify and describe the key roles in the project lifecycle at Labman, such as project manager, developers, QA testers, and stakeholders. Explain their responsibilities at different stages of the project, from planning to deployment. Then, focus on your role in the lifecycle—such as contributing to coding, participating in design discussions, or assisting with testing—and how your responsibilities fit into the broader project workflow. Highlight how your work supports the project's progress and aligns with the organization's goals.
 
 Estimated time to complete: **2 hours**
-# [[K4-S15-B7]]
+# [[K4-S15-B7-B4]]
 - Describes methods of communicating with all stakeholders that is determined by the audience and/or their level of technical knowledge. **(Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods.)**
 
 Describe how you tailor communication methods to different stakeholders based on their technical knowledge. For example, when communicating with technical team members, you might use detailed technical jargon, diagrams, and code snippets, while for non-technical stakeholders, you simplify explanations, use analogies, and focus on high-level concepts and outcomes. Compare the benefits of each approach—technical communication ensures precise, in-depth understanding, while non-technical communication ensures clarity and keeps all stakeholders aligned. Highlight specific instances where you've adapted your communication style to effectively convey information to different audiences.
@@ -73,7 +73,7 @@ Estimated time to complete: **4 hours**
 To demonstrate your ability to create simple software designs, start by selecting a feature from the Intranet project. Develop basic diagrams, like flowcharts or UML diagrams, to visualize the architecture, data flow, and interactions between components. Use these designs to explain how the feature works to stakeholders and users, ensuring the diagrams are clear and accessible to non-technical audiences. Highlight key elements, such as input/output processes, user interfaces, and data handling, and show how the design aligns with project requirements. The goal is to effectively communicate the software's structure and functionality in a way that all stakeholders can understand.
 
 Estimated time to complete: **4 hours**
-# S9
+# [[S9]]
 - Creates analysis artefacts, such as use cases and/or user stories to enable effective delivery of software activities.
 
 To demonstrate your ability to create analysis artifacts for effective software delivery, focus on developing comprehensive use cases or user stories for a particular feature of the Intranet project. Start by identifying the stakeholders and their needs, which will form the basis of your user stories or use cases.
@@ -85,7 +85,7 @@ For **user stories**, adopt a more user-centered approach, framing each requirem
 By integrating these artifacts into project planning and development processes, you can enhance communication among the team and ensure that software activities are aligned with user needs and project goals. This method also helps in prioritizing features based on their value to the user, facilitating effective and agile software development.
 
 Estimated time to complete: **4 hours**
-# S17
+# [[S17]]
 - Explains, how they have interpreted and implemented a given design whilst remaining compliant with security and maintainability requirements.
 
 To demonstrate how you've interpreted and implemented a given design while staying compliant with security and maintainability requirements, choose a specific task or feature from the Intranet project. Start by explaining how you reviewed the design specifications to understand the architecture and functionality. Discuss the steps you took to implement the design, ensuring that your code adhered to security best practices, such as input validation, secure authentication, and data encryption. Also, highlight how you structured your code for maintainability, perhaps by following SOLID principles, using clear naming conventions, and adding documentation. Conclude by reflecting on how your implementation met both the design goals and the necessary security and maintainability standards.
@@ -95,12 +95,6 @@ Estimated time to complete: **4 hours**
 - Describes how they have operated independently to complete tasks to given deadlines which reflect the level of responsibility assigned to them by the organisation.
 
 To demonstrate how you've operated independently to complete tasks by given deadlines, describe a specific instance where you were assigned a task or feature to develop within the Intranet project. Outline how you planned your work, set milestones, and managed your time to ensure you met the deadline. Highlight how you communicated progress with your team or supervisor and how you addressed any challenges that arose, such as troubleshooting issues or making decisions without needing constant guidance. Emphasize your ability to take ownership of the task, ensuring it was completed to a high standard and on time, reflecting the level of responsibility entrusted to you by your organization.
-
-Estimated time to complete: **3 hours**
-# B4
-- Illustrates how they have worked collaboratively with people in different roles, internally and externally, which show a positive attitude to inclusion & diversity.
-
-To illustrate how you've worked collaboratively with people in different roles while showing a positive attitude toward inclusion and diversity, describe a scenario in the Intranet project where you collaborated with a diverse team. This could include working with developers, designers, project managers, and possibly external clients or stakeholders. Highlight how you communicated effectively with each role, respecting different perspectives and expertise. Emphasize your efforts to ensure that everyone's input was valued, fostering an inclusive environment where diverse ideas were encouraged. Discuss how this collaboration led to a more comprehensive and user-friendly solution, demonstrating your commitment to inclusion and diversity in the workplace.
 
 Estimated time to complete: **3 hours**
 # B5
@@ -126,4 +120,4 @@ Describe a challenging task or project within the Intranet development where suc
 
 Describe how you regularly assess your skills and knowledge, identifying areas for growth. For example, you might reflect on feedback from peers or mentors, or review your performance on recent projects like the Intranet development. Based on this reflection, you independently seek out opportunities to improve, such as enrolling in advanced courses, attending workshops, or experimenting with new technologies in your own time. Highlight how this proactive approach to professional development has led to tangible improvements in your work, such as adopting new techniques that enhance your productivity or staying updated with industry trends that benefit your team and projects.
 
-Deadline to complete: **5th September 2024**
+Deadline to complete: **31th October 2024**
