@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf23c98621a94f1",
+        "id": "2f7877358b2a01df",
         "type": "tabs",
         "children": [
           {
-            "id": "63cf4992861c3b83",
+            "id": "40df5991b94002fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aba6c98d7725fd74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,14 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 339.5
   },
   "right": {
     "id": "8dc0c4e840ad0ed1",
@@ -97,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -114,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -158,34 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63cf4992861c3b83",
+  "active": "40df5991b94002fd",
   "lastOpenFiles": [
+    "Level 4 Apprenticeship/Evidence Writeups/B10/B10.md",
     "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/My Commitment To Continued Professional Development.pdf",
+    "Level 4 Apprenticeship/Evidence Writeups/B9/B9.md",
+    "Pasted image 20241029162313.png",
+    "Level 4 Apprenticeship/Evidence Writeups/B6/B6.md",
+    "Level 4 Apprenticeship/Evidence Writeups/B10",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/My Determination To Succeed At Labman.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/My Curiosity In Business Context At Labman.pdf",
+    "Level 4 Apprenticeship/Evidence Writeups/B8/B8.md",
+    "Level 4 Apprenticeship/Evidence Writeups/B9",
+    "Level 4 Apprenticeship/Evidence Writeups/B8",
+    "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
+    "Level 4 Apprenticeship/Evidence Writeups/B5/B5.md",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/Relational and Non-relational Databases at Labman.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/Communication Methods Between Stakeholders At Labman.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/Linking Code To Datasets At Labman.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Docs/Working Independently at Labman.pdf",
+    "Level 4 Apprenticeship/Evidence Writeups/B1/B1.md",
     "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
+    "Level 4 Apprenticeship/Evidence Writeups/Project Board/Project Board Overview.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K3/K3.md",
+    "Pasted image 20241015101520.png",
+    "Pasted image 20241015094245.png",
+    "Pasted image 20241015091649.png",
     "Level 4 Apprenticeship/Evidence Writeups/K4-S15/K4-S15-B7-B4.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S17",
     "Level 4 Apprenticeship/Evidence Writeups/K12/Test Driven Development At Labman.md",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Analysis Artefacts at Labman.pdf",
     "Level 4 Apprenticeship/Evidence Writeups/S9/S9.md",
     "Pasted image 20241003161830.png",
     "Level 4 Apprenticeship/Evidence Writeups/S9/Analysis.md",
     "Level 4 Apprenticeship/Evidence Writeups/S8/S8.md",
-    "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S9",
-    "Level 4 Apprenticeship/Actual Evidence/Software Testing Frameworks.zip",
-    "Level 4 Apprenticeship/Actual Evidence/Software Testing Frameworks/Test Driven Development At Labman.pdf",
     "Level 4 Apprenticeship/Evidence Writeups/K12/Choosing the Correct Testing Framework.md",
-    "Level 4 Apprenticeship/Actual Evidence/Software Testing Frameworks/Choosing the Correct Testing Framework.pdf",
     "Level 4 Apprenticeship/Evidence Writeups/K12/K12.md",
     "Level 4 Apprenticeship/Evidence Writeups/K12/Behaviour Driven Development At Labman.md",
     "Level 4 Apprenticeship/Evidence Writeups/K8-S14/K8-S14.md",
     "Level 4 Apprenticeship/Evidence Writeups/K10/K10.md",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Relational and Non-relational Databases at Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Organizational and Procedures At Labman For Source Control.pdf",
     "Level 4 Apprenticeship/Evidence Writeups/S2/S2.md",
     "Pasted image 20241003131658.png",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Software Designs At Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Roles and Responsibilities During the Project Lifecycle At Labman.pdf",
     "Pasted image 20241001092535.png",
     "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Unit Testing.md",
     "image 023.png",
@@ -193,19 +201,6 @@
     "Pasted image 20240920155933.png",
     "Software Design Patterns/Dependency Injection.md",
     "Software Design Patterns/Factory Method.md",
-    "Software Design Patterns/Software Design Patterns.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/User Acceptance.md",
-    "Pasted image 20240920151444.png",
-    "Pasted image 20240920151247.png",
-    "Pasted image 20240920151058.png",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Read Me First.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/S5-S13.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Security Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/Decorator Pattern.md",
-    "Data Structures/Binary Search Tree.md",
-    "User.md",
-    "Level 4 Apprenticeship/Evidence Writeups/Project Board/Project Board Overview.md",
-    "Pasted image 20240917111048.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
