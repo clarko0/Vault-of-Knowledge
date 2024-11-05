@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f7877358b2a01df",
+        "id": "12cab9d1e32b7d88",
         "type": "tabs",
         "children": [
           {
-            "id": "40df5991b94002fd",
+            "id": "98f8d91156511d0d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40df5991b94002fd",
+  "active": "d7be8c3770616e7e",
   "lastOpenFiles": [
     "Level 4 Apprenticeship/Evidence Writeups/B10/B10.md",
     "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
