@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7bba4674d004e7",
+        "id": "48a330fd341f2f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e39a1c9e8cf71d",
+            "id": "eb27be3091278ce8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Evidence Plan"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,54 +155,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4e39a1c9e8cf71d",
+  "active": "eb27be3091278ce8",
   "lastOpenFiles": [
+    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K10/K10.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S3/S3.md",
+    "Cars/Turbo Research/Turbo.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S2/S2.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K12/K12.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K12/Test Driven Development At Labman.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K4-S15/K4-S15-B7.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K8-S14/K8-S14.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K7/Decorator Pattern.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K7/K7.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K3/K3.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K1/K1.md",
+    "Pressure-calculation-peak-torque-300x65.jpg",
+    "MAP-pressure-calculation-Ploss-300x98.jpg",
+    "How-to-turbo-2-VE-Chart-300x142.jpg",
+    "Manifold-Pressure-Calculation-300x67.jpg",
+    "How-to-turbo-2-AFR-Chart-300x186.jpg",
+    "How-to-turbo-charts-BSFC-300x199.jpg",
+    "Cars/Turbo Research",
+    "Untitled",
     "Level 4 Apprenticeship/Evidence Writeups/B1/B1.md",
     "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
     "Level 4 Apprenticeship/Evidence Writeups/S9/S9.md",
     "Level 4 Apprenticeship/Evidence Writeups/S8/S8.md",
     "Level 4 Apprenticeship/Evidence Writeups/B4/B4.md",
-    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
     "Level 4 Apprenticeship/Actual Evidence/Docs/Collaborative Working At Labman.pdf",
-    "Level 4 Apprenticeship/Evidence Writeups/K3/K3.md",
     "Untitled.md",
     "Level 4 Apprenticeship/Evidence Writeups/K7/Design Pattern Overview.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/Decorator Pattern.md",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns.zip",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns (2).zip",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Design Pattern Overview.pdf",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/K7.md",
     "Level 4 Apprenticeship/Evidence Writeups/K7/Repository Pattern.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K4-S15/K4-S15-B7.md",
     "Untitled.canvas",
-    "Level 4 Apprenticeship/Evidence Writeups/K1/K1.md",
     "Level 4 Apprenticeship/Evidence Writeups/B4",
     "Pasted image 20241120104452.png",
     "Pasted image 20241120104442.png",
     "Pasted image 20241120104420.png",
     "Pasted image 20241120104317.png",
-    "Pasted image 20241120104303.png",
-    "Pasted image 20241120104212.png",
     "Level 4 Apprenticeship/Evidence Writeups/K5/K5.md",
     "Level 4 Apprenticeship/Evidence Writeups/B8/B8.md",
     "Level 4 Apprenticeship/Actual Evidence.zip",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Using The Decorator Pattern At Labman.pdf",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Updating the Intranet to Use The Repository Pattern.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Analysis Artefacts at Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Software Testing Frameworks/Choosing the Correct Testing Framework.pdf",
     "Level 4 Apprenticeship/Evidence Writeups/B10/B10.md",
     "Level 4 Apprenticeship/Evidence Writeups/B9/B9.md",
-    "Pasted image 20241029162313.png",
     "Level 4 Apprenticeship/Evidence Writeups/B6/B6.md",
-    "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
-    "Level 4 Apprenticeship/Evidence Writeups/B5/B5.md",
-    "Level 4 Apprenticeship/Evidence Writeups/Project Board/Project Board Overview.md",
-    "Pasted image 20241015101520.png",
-    "Pasted image 20241015094245.png",
-    "Pasted image 20241015091649.png",
-    "Level 4 Apprenticeship/Evidence Writeups/K12/Test Driven Development At Labman.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S9/Analysis.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K12/Choosing the Correct Testing Framework.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Level 4 Apprenticeship/Evidence Plan/K3/Untitled.canvas"

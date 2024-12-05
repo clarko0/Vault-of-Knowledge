@@ -1,4 +1,4 @@
-# [[K1]]
+# [[K1]] - #COMPLETE
 - Describes all stages of the software development lifecycle.
 
 To describe all stages of the Software Development Lifecycle (SDLC), start with the **Planning** phase, where project goals, scope, and requirements are defined. Next is the **Analysis** phase, which involves gathering detailed requirements and defining system specifications. The **Design** phase follows, where the architecture and user interfaces are planned. After design, the **Implementation** or **Development** phase involves writing and compiling the code according to the design specifications.
@@ -7,7 +7,7 @@ Once development is complete, the **Testing** phase ensures that the software fu
 
 - [x] Add a diagram
 - [x] Refer to use cases/user stories
-# [[K3]]
+# [[K3]] - #COMPLETE
 - Describes the roles and responsibilities of the project lifecycle within their organisation, and their role.
 
 Identify and describe the key roles in the project lifecycle at Labman, such as project manager, developers, QA testers, and stakeholders. Explain their responsibilities at different stages of the project, from planning to deployment. Then, focus on your role in the lifecycle—such as contributing to coding, participating in design discussions, or assisting with testing—and how your responsibilities fit into the broader project workflow. Highlight how your work supports the project's progress and aligns with the organization's goals.
@@ -25,31 +25,34 @@ Describe how you tailor communication methods to different stakeholders based on
 - Describes the similarities and differences between different software development methodologies, such as agile and waterfall.
 
 Describe the similarities and differences between Agile and Waterfall methodologies. Both are frameworks for managing software development, but they differ in approach. **Waterfall** is linear and sequential, with distinct phases like planning, design, implementation, and testing, where each phase must be completed before the next begins. It's best for projects with well-defined requirements. **Agile**, on the other hand, is iterative and flexible, breaking projects into small, manageable increments (sprints) that allow for continuous feedback and adaptation. Agile promotes collaboration and is ideal for projects where requirements may evolve. Both methodologies aim to deliver a high-quality product but differ in structure, flexibility, and adaptability to change.
-# [[K7]]
+# [[K7]] - #COMPLETE
 - Suggests and applies different software design approaches and patterns, to identify reusable solutions to commonly occurring problems (include bespoke or off-the-shelf) **(Evaluates and recommends approaches to using reusable solutions to common problems.)**
 
 Identify a recurring problem in the Intranet project, such as data validation. Research and evaluate relevant design patterns (like the Repository or Strategy Pattern), and choose one that best addresses the issue. Implement the chosen pattern in a specific module, ensuring it integrates well with the existing architecture. Test the solution to validate its effectiveness and document the process, reflecting on how the pattern improved the project's maintainability and reusability.
 
 - [x] Evaluate and recommend (distinction)
 
-# [[K8-S14]]
+# [[K8-S14]] - #COMPLETE
 - Explains the relevance of organisational policies and procedures relating to the tasks being undertaken, and when to follow them including how they have followed company, team or client approaches to continuous integration, version, and source control.
 
 Identify key policies relevant to your work, such as coding standards, security protocols, and documentation requirements. Explain how these policies guide your day-to-day tasks, like adhering to coding guidelines during development or following security protocols when handling sensitive data. Additionally, describe how you follow approaches to version control (e.g., branching strategies in Git), and source control (e.g., committing changes regularly and reviewing pull requests), ensuring consistency and quality in the development process.
-# [[K10]]
+# [[K10]] - #COMPLETE
 - Applies the principles and uses of relational and non-relational databases to software development tasks.
 
 Identify a specific feature in the Intranet project that involves data storage or retrieval. For relational databases, explain how you design normalized tables in MySQL, use SQL queries, and leverage relationships like foreign keys for data integrity. If applicable, for non-relational databases, describe scenarios where you might use a NoSQL database (like MongoDB) for handling unstructured data, emphasizing flexibility and scalability. Implement and document a feature using these principles, comparing how each database type supports different aspects of the application's requirements.
 # [[K12]]
 - Describes basic software testing frameworks and methodologies. **(Evaluates the use of various software testing frameworks and methodologies and justifies their choice.)**
+- [ ] Add conclusion to TDD file
 
 To demonstrate your understanding of software testing frameworks and methodologies, start by describing common approaches like unit testing, integration testing, and test-driven development (TDD). Discuss frameworks like NUnit or xUnit for .NET, explaining their roles in automating tests and ensuring code quality. Evaluate the use of these frameworks within the Intranet project, considering factors like ease of use, compatibility with the tech stack, and the ability to catch bugs early. Justify your choice by highlighting how the selected framework and methodology enhance the reliability and maintainability of the codebase, supporting continuous integration and delivery practices.
 # [[S2]]
 - Explains their own approach to development of user interfaces.
+- [ ] Explain something more comprehensive 
 
 To explain your approach to developing user interfaces, describe your process from understanding user needs to designing and implementing the UI. Start with gathering requirements through discussions with stakeholders or user feedback, ensuring you understand the target audience and their needs. Next, outline your use of design principles such as simplicity, consistency, and accessibility, and how you incorporate them into wireframes or mock-ups. Explain your choice of tools and technologies (e.g., HTML, CSS, JavaScript, and MVC Razor views), and how you prioritize responsive design and user experience. Finally, discuss how you test the UI for usability and cross-browser compatibility before deployment.
 # [[S3]]
 - Explains how they have linked code to data sets.
+- [ ] Merge with K10
 
 To explain how you've linked code to datasets, describe a specific feature in the Intranet project where your code interacts with a database. Outline how you define models that represent database tables, using an ORM like Devart's Entity Developer to map these models to MySQL. Explain how you use LINQ or SQL queries within your code to retrieve, manipulate, and display data. Highlight any steps you took to ensure data integrity and efficiency, such as writing optimized queries or handling exceptions. Conclude by discussing how this data integration supports the functionality of the feature you developed.
 # [[S5-S13]]
