@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82a81e870aa8360c",
+        "id": "7f00d55ed8352865",
         "type": "tabs",
         "children": [
           {
-            "id": "697933fa9d0af277",
+            "id": "14b5d8be99e9189c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compilers/Integers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integers"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 269.5
   },
   "right": {
     "id": "8dc0c4e840ad0ed1",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compilers/Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Integers"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compilers/Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Integers"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,76 +138,87 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compilers/Integers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Integers"
+            }
+          },
+          {
+            "id": "a166d1bfdabacbda",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "697933fa9d0af277",
+  "active": "14b5d8be99e9189c",
   "lastOpenFiles": [
-    "Level 4 Apprenticeship/Level 4 Apprenticeship.md",
-    "Software Design Patterns/Dependency Injection.md",
-    "Software Design Patterns/Factory Method.md",
-    "Software Design Patterns/Software Design Patterns.md",
-    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Integration Testing The Holiday Creation Process.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Non-Functional Testing During Development.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Performance Testing Holiday Entry API Endpoint.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Security Testing Holiday Creation.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Unit Testing A Business Layer Method.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Roles and Responsibilities During the Project Lifecycle At Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Linking Code To Datasets At Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Communication Methods Between Stakeholders At Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Docs/Software Development Lifecycle At Labman.pdf",
-    "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Security Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K8-S14/K8-S14.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/K7.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/Decorator Pattern.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S3/S3.md",
-    "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Updating the Intranet to Use The Repository Pattern.pdf",
-    "Level 4 Apprenticeship/Evidence Writeups/K7/Repository Pattern.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K5/K5.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/System Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Integration Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Non-functional Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Performance Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Read Me First.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Unit Testing.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K4-S15/K4-S15.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K3/K3.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K1/K1.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/S5-S13.md",
-    "Pasted image 20240904170718.png",
-    "Pasted image 20240904170528.png",
-    "Pasted image 20240904170341.png",
-    "Pasted image 20240904170249.png",
-    "Pasted image 20240904152631.png",
-    "Pasted image 20240904132415.png",
-    "clip_image010.png",
-    "clip_image006 1.png",
-    "clip_image006.png",
-    "clip_image004.png",
-    "Level 4 Apprenticeship/Evidence Writeups/K10/K10.md",
+    "Compilers/Integers.md",
     "Cars/Differential/Differential.md",
-    "Cars/Cars.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Level 4 Apprenticeship/Evidence Plan/K3/Untitled.canvas"
+    "Compilers",
+    "structure.png",
+    "solution3-en.png",
+    "solution2-en.png",
+    "solution1.png",
+    "problem1-en.png",
+    "factory-method-en.png",
+    "clip_image010.png",
+    "clip_image006.png",
+    "clip_image006 1.png",
+    "clip_image004.png",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Symmetry and Order.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Similarity.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Proximity.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Images",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Gestalt Principles of Perception.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Focal Point.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Figure-Ground.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Continuation.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Region.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Common Fate.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception/Closure.md",
+    "UI-UX Design/Human-Computer Interaction/Human-Computer Interaction.md",
+    "UI-UX Design/Human-Computer Interaction/Gestalt Principles of Perception",
+    "UI-UX Design/Human-Computer Interaction",
+    "UI-UX Design/Colour/Triadic Colour Scheme.md",
+    "UI-UX Design/Colour/Images",
+    "UI-UX Design/Colour/Monochromatic Colour Scheme.md",
+    "UI-UX Design/Colour/Complementary Colour Scheme.md",
+    "UI-UX Design/Colour/Colour.md",
+    "UI-UX Design/Colour/Analogous Colour Scheme.md",
+    "UI-UX Design/Colour",
+    "Software Design Patterns/Software Design Patterns.md",
+    "Software Design Patterns/Factory Method.md",
+    "Software Design Patterns/Dependency Injection.md",
+    "Software Design Patterns",
+    "README.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Unit Testing.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/System Testing.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Security Testing.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/S5-S13.md",
+    "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Using The Decorator Pattern At Labman.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Updating the Intranet to Use The Repository Pattern.pdf",
+    "Level 4 Apprenticeship/Actual Evidence/Testing The Holiday System/Unit Testing A Business Layer Method.pdf"
   ]
 }
