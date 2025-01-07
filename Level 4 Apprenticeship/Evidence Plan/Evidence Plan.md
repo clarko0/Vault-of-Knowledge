@@ -42,7 +42,7 @@ Identify key policies relevant to your work, such as coding standards, security 
 Identify a specific feature in the Intranet project that involves data storage or retrieval. For relational databases, explain how you design normalized tables in MySQL, use SQL queries, and leverage relationships like foreign keys for data integrity. If applicable, for non-relational databases, describe scenarios where you might use a NoSQL database (like MongoDB) for handling unstructured data, emphasizing flexibility and scalability. Implement and document a feature using these principles, comparing how each database type supports different aspects of the application's requirements.
 # [[K12]]
 - Describes basic software testing frameworks and methodologies. **(Evaluates the use of various software testing frameworks and methodologies and justifies their choice.)**
-- [ ] Add conclusion to TDD file
+- [x] Add conclusion to TDD file
 
 To demonstrate your understanding of software testing frameworks and methodologies, start by describing common approaches like unit testing, integration testing, and test-driven development (TDD). Discuss frameworks like NUnit or xUnit for .NET, explaining their roles in automating tests and ensuring code quality. Evaluate the use of these frameworks within the Intranet project, considering factors like ease of use, compatibility with the tech stack, and the ability to catch bugs early. Justify your choice by highlighting how the selected framework and methodology enhance the reliability and maintainability of the codebase, supporting continuous integration and delivery practices.
 # [[S2]]
@@ -58,12 +58,17 @@ To explain how you've linked code to datasets, describe a specific feature in th
 # [[S5-S13]]
 - Illustrates how to conduct test types, including Integration, System, User Acceptance, Non-Functional, Performance and Security testing including how they have followed testing frameworks and methodologies.
 
-To illustrate how you conduct various test types, choose a feature from the Intranet project and describe your testing process. For **Integration Testing**, explain how you tested interactions between different modules or services, ensuring they work together. In **System Testing**, describe validating the complete system against requirements. For **User Acceptance Testing (UAT)**, detail how you involved end-users to confirm the feature meets their needs. In **Non-Functional Testing**, cover aspects like usability and reliability. **Performance Testing** involves checking the system's responsiveness under load, while **Security Testing** focuses on identifying vulnerabilities. Mention the testing frameworks and methodologies used, such as NUnit for integration tests or JMeter for performance tests, and how these ensured comprehensive test coverage and adherence to best practices.
+To illustrate how you conduct various test types, choose a feature from the Intranet project and describe your testing process. For **Integration Testing**, explain how you tested interactions between different modules or services, ensuring they work together. In **System Testing**, describe validating the complete system against requirements. For **User Acceptance Testing (UAT)**, detail how you involved end-users to confirm the feature meets their needs. In **Non-Functional Testing**, cover aspects like usability and reliability. **Performance Testing** involves checking the system's responsiveness under load, while **Security Testing** focuses on identifying vulnerabilities. Mention the testing frameworks and methodologies used, such as NUnit for integration tests or JMeter for performance tests, and how these ensured comprehensive test coverage and adherence to best practices.#
+
+- [ ] Add conclusion to user acceptance 
+- [ ] UI heuristics
 # [[S8]]
 - Creates simple software designs to communicate understanding of the programme to stakeholders and users of the programme.
 
+- [ ] flow chart diagram
+
 To demonstrate your ability to create simple software designs, start by selecting a feature from the Intranet project. Develop basic diagrams, like flowcharts or UML diagrams, to visualize the architecture, data flow, and interactions between components. Use these designs to explain how the feature works to stakeholders and users, ensuring the diagrams are clear and accessible to non-technical audiences. Highlight key elements, such as input/output processes, user interfaces, and data handling, and show how the design aligns with project requirements. The goal is to effectively communicate the software's structure and functionality in a way that all stakeholders can understand.
-# [[S9]]
+# [[S9]] - #COMPLETE 
 - Creates analysis artefacts, such as use cases and/or user stories to enable effective delivery of software activities.
 
 To demonstrate your ability to create analysis artifacts for effective software delivery, focus on developing comprehensive use cases or user stories for a particular feature of the Intranet project. Start by identifying the stakeholders and their needs, which will form the basis of your user stories or use cases.

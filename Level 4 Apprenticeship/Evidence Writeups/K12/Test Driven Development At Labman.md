@@ -22,3 +22,4 @@ The following are examples of failed cases:
 I'd made it easier and wrote some custom messages to see what data failed the tests:
 ![[image 023.png]]
 
+In conclusion, using Test Driven Development for our reminder system made a big difference. By writing the test cases before coding, we managed the complex scheduling options much more smoothly. The Excel file helped us quickly spot and fix issues. In the end, TDD helped us build a reliable system with accurate schedule dates.

@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "48a330fd341f2f4a",
+        "id": "264a26fa1cb35de6",
         "type": "tabs",
         "children": [
           {
-            "id": "eb27be3091278ce8",
+            "id": "e1378f41337e9058",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Writeups/S8/S8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "S8"
+            }
+          },
+          {
+            "id": "9bb66428f68d916f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evidence Plan"
+            }
+          },
+          {
+            "id": "fe0738bc41daadec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 4 Apprenticeship/Evidence Writeups/S9/S9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,15 +187,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb27be3091278ce8",
+  "active": "9bb66428f68d916f",
   "lastOpenFiles": [
+    "Level 4 Apprenticeship/Evidence Writeups/S9/S9.md",
     "Level 4 Apprenticeship/Evidence Plan/Evidence Plan.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S8/S8.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/Read Me First.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/S5-S13.md",
+    "Level 4 Apprenticeship/Evidence Writeups/S5-S13/User Acceptance.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K12/K12.md",
+    "Level 4 Apprenticeship/Evidence Writeups/K12/Test Driven Development At Labman.md",
+    "Level 4 Apprenticeship/Actual Evidence/Software Testing Frameworks.zip",
     "Level 4 Apprenticeship/Evidence Writeups/K10/K10.md",
     "Level 4 Apprenticeship/Evidence Writeups/S3/S3.md",
     "Cars/Turbo Research/Turbo.md",
     "Level 4 Apprenticeship/Evidence Writeups/S2/S2.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K12/K12.md",
-    "Level 4 Apprenticeship/Evidence Writeups/K12/Test Driven Development At Labman.md",
     "Level 4 Apprenticeship/Evidence Writeups/K4-S15/K4-S15-B7.md",
     "Level 4 Apprenticeship/Evidence Writeups/K8-S14/K8-S14.md",
     "Level 4 Apprenticeship/Evidence Writeups/K7/Decorator Pattern.md",
@@ -180,8 +218,6 @@
     "Untitled",
     "Level 4 Apprenticeship/Evidence Writeups/B1/B1.md",
     "Level 4 Apprenticeship/Evidence Writeups/S17/S17.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S9/S9.md",
-    "Level 4 Apprenticeship/Evidence Writeups/S8/S8.md",
     "Level 4 Apprenticeship/Evidence Writeups/B4/B4.md",
     "Level 4 Apprenticeship/Actual Evidence/Docs/Collaborative Working At Labman.pdf",
     "Untitled.md",
@@ -200,10 +236,6 @@
     "Level 4 Apprenticeship/Evidence Writeups/B8/B8.md",
     "Level 4 Apprenticeship/Actual Evidence.zip",
     "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Using The Decorator Pattern At Labman.pdf",
-    "Level 4 Apprenticeship/Actual Evidence/Design Patterns/Updating the Intranet to Use The Repository Pattern.pdf",
-    "Level 4 Apprenticeship/Evidence Writeups/B10/B10.md",
-    "Level 4 Apprenticeship/Evidence Writeups/B9/B9.md",
-    "Level 4 Apprenticeship/Evidence Writeups/B6/B6.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Level 4 Apprenticeship/Evidence Plan/K3/Untitled.canvas"
