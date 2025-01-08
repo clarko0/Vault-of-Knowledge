@@ -5,7 +5,9 @@
 
 Error handling was outside of the functional specification, and is brought down to the developer to implement and test - meaning that it had to be non-functionally tested. I tried multiple UI components to show the exception returned from the server, such as an banners at the top of the holiday entry form, popups, and toast notifications. 
 
-Toast notifications were the best pick, due to them being more visible than a banner, and not being as obtrusive as popups. The API returns an exception if the user gives no days to add as holiday, this is caused by this bit of code:
+From a usability standpoint, toast notifications align well with several key heuristics. They maintain visibility of system status by succinctly informing the user about errors or updates in real-time, without requiring a dedicated action (such as closing a popup). This non-intrusive design respects the user’s workflow, reducing unnecessary disruption and cognitive load. Additionally, toast notifications adhere to established consistency and standards by appearing in a predictable corner of the screen and typically dismissing themselves after a short duration. As a result, they strike a balance between ensuring the message is noticed and allowing the user to continue working without being forced to acknowledge the notification.
+
+Toast notifications were the best pick. 
 
 ```cs
 public void CreateHolidayEntriesForUser(List<HolidayEntryItem> holidayEntries, int userId)
