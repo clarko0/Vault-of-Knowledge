@@ -110,5 +110,3 @@ Describe a challenging task or project within the Intranet development where suc
 - Explains how they reflect on their continued professional development and act independently to seek out new opportunities.
 
 Describe how you regularly assess your skills and knowledge, identifying areas for growth. For example, you might reflect on feedback from peers or mentors, or review your performance on recent projects like the Intranet development. Based on this reflection, you independently seek out opportunities to improve, such as enrolling in advanced courses, attending workshops, or experimenting with new technologies in your own time. Highlight how this proactive approach to professional development has led to tangible improvements in your work, such as adopting new techniques that enhance your productivity or staying updated with industry trends that benefit your team and projects.
-
-Deadline to complete: **31th October 2024**
