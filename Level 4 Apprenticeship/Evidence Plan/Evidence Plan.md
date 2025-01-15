@@ -57,10 +57,10 @@ To explain your approach to developing user interfaces, describe your process fr
 - [x] Merge with K10
 
 To explain how you've linked code to datasets, describe a specific feature in the Intranet project where your code interacts with a database. Outline how you define models that represent database tables, using an ORM like Devart's Entity Developer to map these models to MySQL. Explain how you use LINQ or SQL queries within your code to retrieve, manipulate, and display data. Highlight any steps you took to ensure data integrity and efficiency, such as writing optimized queries or handling exceptions. Conclude by discussing how this data integration supports the functionality of the feature you developed.
-# [[S5-S13]]
-- Illustrates how to conduct test types, including Integration, System, User Acceptance, Non-Functional, Performance and Security testing including how they have followed testing frameworks and methodologies.
+# [[S5-S13]] - #COMPLETE 
+ - Illustrates how to conduct test types, including Integration, System, User Acceptance, Non-Functional, Performance and Security testing including how they have followed testing frameworks and methodologies.
 
-To illustrate how you conduct various test types, choose a feature from the Intranet project and describe your testing process. For **Integration Testing**, explain how you tested interactions between different modules or services, ensuring they work together. In **System Testing**, describe validating the complete system against requirements. For **User Acceptance Testing (UAT)**, detail how you involved end-users to confirm the feature meets their needs. In **Non-Functional Testing**, cover aspects like usability and reliability. **Performance Testing** involves checking the system's responsiveness under load, while **Security Testing** focuses on identifying vulnerabilities. Mention the testing frameworks and methodologies used, such as NUnit for integration tests or JMeter for performance tests, and how these ensured comprehensive test coverage and adherence to best practices.#
+To illustrate how you conduct various test types, choose a feature from the Intranet project and describe your testing process. For **Integration Testing**, explain how you tested interactions between different modules or services, ensuring they work together. In **System Testing**, describe validating the complete system against requirements. For **User Acceptance Testing (UAT)**, detail how you involved end-users to confirm the feature meets their needs. In **Non-Functional Testing**, cover aspects like usability and reliability. **Performance Testing** involves checking the system's responsiveness under load, while **Security Testing** focuses on identifying vulnerabilities. Mention the testing frameworks and methodologies used, such as NUnit for integration tests or JMeter for performance tests, and how these ensured comprehensive test coverage and adherence to best practices.
 
 - [x] Add conclusion to user acceptance 
 - [x] UI heuristics
@@ -87,26 +87,41 @@ To demonstrate how you've interpreted and implemented a given design while stayi
 # [[B1]]
 - Describes how they have operated independently to complete tasks to given deadlines which reflect the level of responsibility assigned to them by the organisation.
 
+- [ ] Witness statement 
+- [x] Different piece of work as well 
+
 To demonstrate how you've operated independently to complete tasks by given deadlines, describe a specific instance where you were assigned a task or feature to develop within the Intranet project. Outline how you planned your work, set milestones, and managed your time to ensure you met the deadline. Highlight how you communicated progress with your team or supervisor and how you addressed any challenges that arose, such as troubleshooting issues or making decisions without needing constant guidance. Emphasize your ability to take ownership of the task, ensuring it was completed to a high standard and on time, reflecting the level of responsibility entrusted to you by your organization.
 # [[B4]]
 - Illustrates how they have worked collaboratively with people in different roles, internally and externally, which show a positive attitude to inclusion & diversity.
-# [[B5]]
+
+- [ ] Witness Statement
+# [[B5]] - #COMPLETE 
 - Explains how they have established an approach in the workplace which reflects integrity with respect to ethical, legal, and regulatory matters and ensures the protection of personal data, safety and security.
 
 Describe how you've adopted practices in your work that align with ethical, legal, and regulatory standards, especially concerning data protection and security. For example, explain how you've implemented secure coding practices to protect personal data on the Intranet project, ensured compliance with GDPR by anonymizing user data, or conducted regular security audits. Highlight how you follow company policies and industry standards, such as documenting decisions to maintain transparency and accountability, and how you promote a culture of integrity by advocating for best practices in your team. This demonstrates your commitment to upholding ethical standards and ensuring safety and security in your work.
-# [[B6]]
+
+# [[B6]] -
 - Illustrates their approach to meeting unexpected minor changes at work and outlines their approach to delivering within their remit using their initiative.
+
+- [ ] Witness statement
 
 To demonstrate this KSB, describe a situation where you encountered an unexpected minor change, such as a last-minute requirement adjustment in the Intranet project. Explain how you quickly assessed the impact of the change, adjusted your workflow, and reprioritized tasks to accommodate it without disrupting the overall project timeline. Highlight how you used your initiative to find a solution, such as proposing a simple workaround or optimizing an existing feature to meet the new requirements. This shows your ability to adapt, take responsibility, and deliver quality work even when faced with unforeseen challenges.
 # [[B8]]
 - Illustrates how they have responded to the business context with curiosity to explore new opportunities and techniques and tenacity to improve solution performance.
 
+- [ ] Witness Statement
+
 Describe a scenario where you noticed a potential improvement in the Intranet project or identified a new opportunity. For instance, you might have explored a new technology or technique, such as optimizing database queries or implementing a more efficient caching strategy, driven by curiosity to enhance performance. Explain how you researched, tested, and ultimately implemented this improvement, showing tenacity in overcoming challenges along the way. Highlight the positive impact on the project's performance or user experience, showcasing your proactive approach to continuous improvement and your willingness to explore innovative solutions within the business context.
 # [[B9]]
 - Illustrates how they have established an approach to methods and solutions which reflects a determination to succeed.
+- [x] Obstacle 
+- [x] Creativity
+- [ ] Witness Statement
 
 Describe a challenging task or project within the Intranet development where success required persistence and careful planning. Explain how you set clear goals, created a step-by-step plan, and remained focused despite obstacles, such as debugging complex issues or integrating a difficult feature. Highlight how you leveraged available resources, sought feedback, and iteratively refined your approach until you achieved the desired outcome. This showcases your determination to succeed by illustrating how you remained committed to finding a solution and delivering a successful result, even in the face of challenges.
 # [[B10]]
 - Explains how they reflect on their continued professional development and act independently to seek out new opportunities.
+
+- [ ] Witness statement
 
 Describe how you regularly assess your skills and knowledge, identifying areas for growth. For example, you might reflect on feedback from peers or mentors, or review your performance on recent projects like the Intranet development. Based on this reflection, you independently seek out opportunities to improve, such as enrolling in advanced courses, attending workshops, or experimenting with new technologies in your own time. Highlight how this proactive approach to professional development has led to tangible improvements in your work, such as adopting new techniques that enhance your productivity or staying updated with industry trends that benefit your team and projects.
